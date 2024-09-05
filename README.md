@@ -1,5 +1,5 @@
-This is API based on node.js+express.\
+This is API based on node.js+express.<br/>
 
-Base commands:\
-For build - npm run build\
-For run server - npm start\
+Base commands:<br/>
+For build - npm run build<br/>
+For run server - npm start<br/>
