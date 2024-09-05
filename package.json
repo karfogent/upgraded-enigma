@@ -1,0 +1,23 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "API",
+  "type": "commonjs",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node ./dist/main.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bash Konstantin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.2.2",
+    "tslog": "^3.3.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
